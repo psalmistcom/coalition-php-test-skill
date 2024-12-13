@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SkillTest::testHasFunctionExists":3,"SkillTest::testHasPropertyExists":3,"SkillTest::testInvoke":3},"times":{"SkillTest::testHasFunctionExists":0.019,"SkillTest::testHasPropertyExists":0,"SkillTest::testIsSetSkillType":0.002,"SkillTest::testInvoke":0.002}}
